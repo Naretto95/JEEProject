@@ -1,2 +1,2 @@
 # JEEProject
-JEE project made in class
+JEE project made in class.
